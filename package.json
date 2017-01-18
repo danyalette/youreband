@@ -15,5 +15,9 @@
     "babel-loader": "^6.2.10",
     "paper": "^0.10.2",
     "webpack": "^1.14.0"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/danyalette/youreband.git"
   }
 }
