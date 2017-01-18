@@ -1,0 +1,133 @@
+ {
+   "bannedTexts": ["YOUR BANNED", "YOURE BAND", "YOU\"RE BANED", "YOUR BANNED", "YOURE BAND", "YOU\"RE BANED", "YOUR BANNED", "YOURE BAND", "YOU\"RE BANED", "YOUR BANNED", "YOURE BAND", "YOU\"RE BANED", "YOUR BANNED", "YOURE BAND", "YOU\"RE BANED", "YOUR BANNED", "YOURE BAND", "YOU\"RE BANED", "YOUR BANNED", "YOURE BAND", "YOU\"RE BANED", "YOUR BANNED", "YOURE BAND", "YOU\"RE BANED", "YOUR BANNED", "YOURE BAND", "YOU\"RE BANED", "YOUR BANNED", "YOURE BAND", "YOU\"RE BANED", "YOUR BANNED", "YOURE BAND", "YOU\"RE BANED", "YOUR BANNED", "YOURE BAND", "YOU\"RE BANED", "YOUR BANNED", "YOURE BAND", "YOU\"RE BANED", "YOUR BANNED", "YOURE BAND", "YOU\"RE BANED", "YOUR THE \n999999TH VISITOR!!!!"],
+   "formText": "is banned from",
+   "textStyle" : {
+     "fontFamily": "Arial Black, Arial, sans-serif",
+     "fillColor": "red",
+     "fontWeight": 900,
+     "justification": "center",
+     "shadowColor": "black",
+     "shadowOffset": [1, 1]
+   },
+   "images": [
+     {
+       "src": "images/sunglass-man.jpg",
+       "name": "sunglass-man",
+       "scale": 0.5,
+       "position": {
+         "xAnchor": "left",
+         "yAnchor": "top",
+         "x": -42,
+         "y": -62
+       }
+     },
+     {
+       "src": "images/sad-kid.png",
+       "name": "sad-kid",
+       "scale": 0.5,
+       "position": {
+         "xAnchor": "right",
+         "yAnchor": "top",
+         "x": 0,
+         "y": -5
+       }
+     },
+     {
+       "src": "images/no-smoking.png",
+       "name": "no-smoking",
+       "scale": 0.5,
+       "position": {
+         "xAnchor": "right",
+         "yAnchor": "center",
+         "x": 45,
+         "y": 30
+       }
+     },
+     {
+       "src": "images/cop.png",
+       "name": "cop",
+       "scale": 0.5,
+       "position": {
+         "xAnchor": "center",
+         "yAnchor": "center",
+         "x": -30,
+         "y": -50
+       }
+     },
+     {
+       "src": "images/hammer.png",
+       "name": "hammer",
+       "scale": 0.5,
+       "position": {
+         "xAnchor": "center",
+         "yAnchor": "bottom",
+         "x": 15,
+         "y": 15
+       }
+     },
+     {
+       "src": "images/skull.jpg",
+       "name": "skull",
+       "scale": 0.5,
+       "position": {
+         "xAnchor": "right",
+         "yAnchor": "bottom",
+         "x": -50,
+         "y": -80
+       }
+     },
+     {
+       "src": "images/man-cube.jpg",
+       "name": "man-cube",
+       "scale": 0.5,
+       "position": {
+         "xAnchor": "left",
+         "yAnchor": "bottom",
+         "x": 0,
+         "y": 0
+       }
+     }
+   ],
+   "texts": [
+     {
+       "data_key": "name",
+       "max_size": "45px",
+       "position": {
+         "xAnchor": "center",
+         "yAnchor": "center",
+         "x": 0,
+         "y": -100
+       }
+     },
+     {
+       "config_choice_key": "bannedTexts",
+       "max_size": "45px",
+       "position": {
+         "xAnchor": "center",
+         "yAnchor": "center",
+         "x": 0,
+         "y": 0
+       }
+     },
+     {
+       "content": "from",
+       "max_size": "20px",
+       "position": {
+         "xAnchor": "center",
+         "yAnchor": "center",
+         "x": 0,
+         "y": 50
+       }
+     },
+     {
+       "data_key": "target",
+       "max_size": "45px",
+       "position": {
+         "xAnchor": "center",
+         "yAnchor": "center",
+         "x": 0,
+         "y": 100
+       }
+     }
+   ]
+ }

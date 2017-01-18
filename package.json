@@ -1,0 +1,19 @@
+{
+  "name": "youreband",
+  "version": "1.0.0",
+  "description": "i dunno man",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wtf"
+  ],
+  "author": "Danya Lette",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-loader": "^6.2.10",
+    "paper": "^0.10.2",
+    "webpack": "^1.14.0"
+  }
+}
